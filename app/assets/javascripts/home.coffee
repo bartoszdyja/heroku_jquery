@@ -3,5 +3,7 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 $(document).ready ->
-  @runJS = ->
-    alert 'alert from coffee'
+  @showMapForm = ->
+    $(".show_map").toggle()
+    $("#advertisement_address").hide()
+    $("#map_link").hide()
