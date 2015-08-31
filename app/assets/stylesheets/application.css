@@ -14,14 +14,11 @@
  *= require_self
  */
 
- div.small-map {
+
+
+.show_map {
   height: 300px;
   width: 400px;
-}
-
-
-div.wide-map {
-  height: 400px;
-  width: 100%;
+  display: none;
 }
 
