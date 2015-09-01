@@ -13,7 +13,6 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass'
 gem 'haml-rails'
 gem 'pg'
-gem 'simple_form'
 gem 'devise'
 gem 'decent_exposure'
 gem 'decent_decoration'
